@@ -20,13 +20,21 @@ Output Format:
 For each query, print the value of the element at index m of the rotated array on a new line.
 
 Sample Input:
+
 3 2 3
+
 1 2 3
+
 0
+
 1
+
 2
 
 Sample Output:
+
 2
+
 3
+
 1
