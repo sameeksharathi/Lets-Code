@@ -5,13 +5,13 @@ he decides to cancel class if fewer than some number of students are present whe
 
 Given the arrival time of each student and a threshhold number of attendees, determine if the class is canceled.
 
-#3Input Format
+Input Format
 
 The first line of input contains t, the number of test cases.
 Each test case consists of two lines.
 The first line has two space-separated integers, n and k, the number of students (size of a) and the cancellation threshold.
 The second line contains n space-separated integers (a[1],a[2],....,a[n]) describing the arrival times for each student.
 
-##Output Format
+Output Format
 
 For each test case, print the word YES if the class is canceled or NO if it is not.
