@@ -1,3 +1,4 @@
+<h1>Compare the triplet</h1>
 Alice and Bob each created one problem for HackerRank. A reviewer rates the two challenges, awarding points on a scale from 1 to 100
 for three categories: problem clarity, originality, and difficulty.
 We define the rating for Alice's challenge to be the triplet a=(a[0],a[1],a[2]), and the rating for Bob's challenge to be the triplet
