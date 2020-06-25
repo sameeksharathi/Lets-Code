@@ -25,7 +25,7 @@ Print a single integer denoting the area in mm^2 of highlighted rectangle when t
 
 <hr>
 <h3>Sample Input 1</h3>
-1 3 1 3 1 4 1 3 2 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 7
+1 3 1 3 1 4 1 3 2 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 7<br>
 zaba
 
 <h3>Sample Output 1</h3> 
