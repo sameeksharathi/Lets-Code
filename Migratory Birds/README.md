@@ -12,6 +12,6 @@ Pick the lower of the two types seen twice: type 1.
 The first line contains an integer denoting n, the number of birds sighted and reported in the array arr.<br>
 The second line describes arr as n space-separated integers representing the type numbers of each bird sighted.
 
-<h2>Output Format<h2>
+<h2>Output Format</h2>
 Print the type number of the most common bird; if two or more types of birds are equally common, choosethe type with the smallest
 ID number.
