@@ -1,4 +1,4 @@
-<h1>Gully Boy Boht Hard</h1>
+<h1>Gully Boy Boht Hard (Contest Question)</h1>
 Gully Boy for his new rap, creating a list of characters, so that list can be arranged in different manners, as per the mood of crowd.
 They seek help from GLA students because they feel this is "Boht Hard" to create. Your task is to keep a linked list of characters for
 creating rap, but do not keep "white space" character in linked list.<br>
