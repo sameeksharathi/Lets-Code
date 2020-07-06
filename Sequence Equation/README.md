@@ -1,3 +1,4 @@
+# Sequence Equation
 Given a sequence of n integers, p(1),p(2),....,p(n) where each element is distinct and satisfies 1 <= p(x) <= n. For each x where 1 <= x <= n, find any integer y such that p(p(y))=x and print the value ofy  on a new line.<br>
 For example, assume the sequence p = [5,2,1,3,4]. Each value of x between 1 and 5, the length of the sequence, is analyzed as follows:<br>
 
